@@ -40,8 +40,11 @@
 * Guangzhou Research Institute of China Telecom 
 
 #作者#
+
 ##算法设计##
 * Yujia Luo(chinatelecom.sdn.group@gmail.com)
 * Hong Tang(chinatelecom.sdn.group@gmail.com)
+* Liang Ou(chinatelecom.sdn.group@gmail.com)
+
 ##算法实现##
 * Peng Li (chinatelecom.sdn.group@gmail.com)

@@ -46,6 +46,7 @@ For compiling and running, please refer to the description in service function c
 ##Algorithm design##
 * Yujia Luo(chinatelecom.sdn.group@gmail.com)
 * Hong Tang(chinatelecom.sdn.group@gmail.com)
+* Liang Ou(chinatelecom.sdn.group@gmail.com)
 
 ##Coding##
 * Peng Li (chinatelecom.sdn.group@gmail.com)
